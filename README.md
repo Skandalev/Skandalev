@@ -7,7 +7,7 @@
 - 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** and more
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 📫 How to reach me: danlev@gmail.com
+- 📫 How to reach me: danlev@gmail.com Linkedin: https://www.linkedin.com/in/dan-lev-bb367b249/
 - ⚡ Fun fact: If the zombie apocalypse ever starts, I have a plan so stick by me!
 
 
